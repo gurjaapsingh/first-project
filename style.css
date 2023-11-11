@@ -19,3 +19,9 @@ a:hover {
 .class {
   font-size: x-large;
 }
+ul {
+  list-style-position: inside;
+}
+ol {
+  list-style-position: inside;
+}
